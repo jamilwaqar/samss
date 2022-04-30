@@ -1,0 +1,25 @@
+export enum Images {
+  logo = require('../../assets/images/logo.png'),
+  show = require('../../assets/icons/visibility.png'),
+  hide = require('../../assets/icons/invisible.png'),
+  close = require('../../assets/icons/close.png'),
+  arrowForward = require('../../assets/icons/forward-arrow.png'),
+  menu = require('../../assets/icons/menu.png'),
+  add = require('../../assets/icons/add.png'),
+  rightArrow = require('../../assets/icons/right-arrow.png'),
+  link = require('../../assets/icons/link.png'),
+  camera = require('../../assets/icons/camera.png'),
+  login = require('../../assets/images/login.png'),
+  forgotPasswordVector = require('../../assets/images/forgot-password-vector.png'),
+  back = require('../../assets/icons/back.png'),
+  touchID = require('../../assets/images/biometrics/touch_id.png'),
+  faceID = require('../../assets/images/biometrics/face_id.png'),
+  passcode = require('../../assets/images/biometrics/passcode.png'),
+  folder = require('../../assets/icons/folder.png'),
+  profile = require('../../assets/images/user.jpeg'),
+  deleteImg = require('../../assets/icons/delete-image.png'),
+  down = require('../../assets/icons/down.png'),
+  date = require('../../assets/icons/date.png'),
+ 
+
+}
